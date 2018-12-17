@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\NewsTable.exe.config
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\NewsTable.exe
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\NewsTable.pdb
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\NewsTable\NewsTable\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.Form1.resources
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.Properties.Resources.resources
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.UserControlAddNew.resources
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.exe
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.pdb
+C:\Users\User\source\repos\NewsTable\NewsTable\obj\Debug\NewsTable.csprojResolveAssemblyReference.cache
